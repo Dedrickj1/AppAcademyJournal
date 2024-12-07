@@ -6,3 +6,5 @@
 
 // December 1-5 preparing for the assessment
 
+// December 6 made sure assessment worked and did a test push and it worked.
+
