@@ -8,3 +8,7 @@
 
 // December 6 made sure assessment worked and did a test push and it worked.
 
+// december 7-10 did coding here and there
+
+// December 11 - 18 html and css 
+
